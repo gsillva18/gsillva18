@@ -1,7 +1,7 @@
 
 # Olá, bem vindo, eu sou o Gabriel. 👋
 
-Sou uma pessoa apaixonada por tecnologia e estou sempre buscando aprender novos assuntos da área de programação. Sou um desenvolvedor Fullstack e atualemente estou me dedicando em aperfeiçoar as tecnologias que domino.
+Sou uma pessoa apaixonada por tecnologia e estou sempre buscando aprender novos assuntos da área de programação. Sou um desenvolvedor Fullstack e atualmente estou me dedicando em aperfeiçoar as tecnologias que domino.
 
 ## Meu status
 
