@@ -3,6 +3,14 @@
 
 Sou uma pessoa apaixonada por tecnologia e estou sempre buscando aprender novos assuntos da área de programação. Sou um desenvolvedor Fullstack e atualemente estou me dedicando em aperfeiçoar as tecnologias que domino.
 
+## Meu status
+
+<div>
+<a href="https://github.com/gsillva18">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsillva18&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gsillva18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Conecte-se comigo
 
 <div>
