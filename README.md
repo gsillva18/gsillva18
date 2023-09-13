@@ -1,5 +1,5 @@
 
-# Olá, bem vindo, eu sou o Gabriel. 👋
+# Olá, bem vindo(a), eu sou o Gabriel. 👋
 
 Sou uma pessoa apaixonada por tecnologia e estou sempre buscando aprender novos assuntos da área de programação. Sou um desenvolvedor Fullstack e atualmente estou me dedicando em aperfeiçoar as tecnologias que domino.
 
